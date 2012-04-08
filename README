@@ -1,1 +1,2 @@
-pygmail - A Python Library For Gmail
+my fork of pygmail - A Python Library For Gmail
+getwords.py is a script that gets words from emails in my inbox and writes them to a file
